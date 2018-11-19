@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DominosPizza</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_frag_menu_pizza">Fragment Menu Pizza</string>
+    <string name="tv_frag_Ingredient_pizza">Fragment Ingredient Pizza</string>
+</resources>
